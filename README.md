@@ -66,8 +66,4 @@ Um dos trabalhos que mais me orgulho foi o desenvolvimento de um **sistema de ge
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCTHIAS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
-
-### 🌐 Onde me encontrar
-📌 [LinkedIn](https://www.linkedin.com/in/mcthias)  
-📌 [GitHub](https://github.com/MCTHIAS)
+</p> 
