@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="mcthias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mcthias?trk=profile-badge">Matheus Pereira</a></div>
               
               
 ---
