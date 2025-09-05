@@ -25,7 +25,15 @@ Um dos trabalhos que mais me orgulho foi o desenvolvimento de um **sistema de ge
     title="Flask" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only" 
+/>
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/flask/white#gh-dark-mode-only" 
 />
 <img 
     align="left" 
