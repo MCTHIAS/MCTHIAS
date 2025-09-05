@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/MCTHIAS">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=3398DB&center=true&vCenter=true&width=435&lines=Matheus+Pereira;Engenheiro+de+Software;Desenvolvedor+Backend" alt="Texto animado: Matheus Pereira, Engenheiro de Software, Desenvolvedor Backend" />
   </a>
@@ -9,7 +9,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mcthias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mcthias?trk=profile-badge">Matheus Pereira</a></div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="mcthias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mcthias?trk=profile-badge">Matheus Pereira</a></div>
+              
               
 ---
 
