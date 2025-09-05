@@ -20,22 +20,18 @@ Um dos trabalhos que mais me orgulho foi o desenvolvimento de um **sistema de ge
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 
-<img 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask&theme=light" />
+  <img 
     align="left" 
     alt="Flask" 
     title="Flask" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only" 
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/flask/white#gh-dark-mode-only" 
-/>
+    src="https://skillicons.dev/icons?i=flask&theme=light" 
+  />
+</picture>
 
 <img 
     align="left" 
