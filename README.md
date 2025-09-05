@@ -1,16 +1,7 @@
-<p align="left">
-  <a href="https://github.com/MCTHIAS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=3398DB&center=true&vCenter=true&width=435&lines=Matheus+Pereira;Engenheiro+de+Software;Desenvolvedor+Backend" alt="Texto animado: Matheus Pereira, Engenheiro de Software, Desenvolvedor Backend" />
-  </a>
-</p>
+# 👨🏻‍💻 Matheus Pereira
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mcthias" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-              
-              
+**`Engenheiro de Software | Backend Developer`**
+                         
 ---
 
 ### 👋 Sobre Mim
