@@ -1,21 +1,21 @@
 # 👨🏻‍💻 Matheus Pereira
 
-**`Engenheiro de Software | Backend Developer`**
-                         
----
-
-### 👋 Sobre Mim
-
-<p>
-  Sou um desenvolvedor com foco em <strong>Backend</strong>, apaixonado por transformar necessidades complexas em soluções simples, escaláveis e de alto impacto. Minha especialidade é construir <strong>APIs robustas</strong>, <strong>automação de processos</strong> e <strong>integração de sistemas</strong>, utilizando principalmente <strong>Python</strong> e <strong>JavaScript</strong>.
-</p>
-<p>
-  Um dos trabalhos que mais me orgulho foi o desenvolvimento de um <strong>sistema de gestão de pacientes para cardiologia pediátrica</strong>, que centralizou dados clínicos, automatizou fluxos de atendimento e aumentou em <strong>30% a eficiência operacional</strong> de médicos e equipes.
-</p>
+**`Software Engineer | Backend Developer`**
 
 ---
 
-### 🚀 Principais Competências
+### 👋 About Me
+
+<p>
+  I am a developer with a focus on the <strong>Backend</strong>, passionate about transforming complex needs into simple, scalable, and high-impact solutions. My specialty is building <strong>robust APIs</strong>, <strong>process automation</strong>, and <strong>system integration</strong>, primarily using <strong>Python</strong>.
+</p>
+<p>
+  One of the projects I am most proud of is the development of a <strong>patient management system for pediatric cardiology</strong>. It centralized clinical data, automated care workflows, and increased the operational efficiency of doctors and teams by <strong>30%</strong>.
+</p>
+
+---
+
+### 🚀 Core Competencies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -31,6 +31,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MCTHIAS/MCTHIAS/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MCTHIAS/MCTHIAS/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação da cobra de contribuições" src="https://raw.githubusercontent.com/MCTHIAS/MCTHIAS/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MCTHIAS/MCTHIAS/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
