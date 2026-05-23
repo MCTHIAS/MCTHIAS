@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a Full-Stack Developer focused on building end-to-end solutions that drive business efficiency. With a solid foundation in backend architectures and cloud infrastructure, I navigate the entire stack to deliver secure, responsive, and scalable applications. 
+I am a Full-Stack Developer focused on building end-to-end solutions that drive business efficiency. With a solid foundation in backend architectures and cloud infrastructure, I navigate the entire stack to deliver secure, responsive, and scalable applications.
 
 Great software goes beyond writing code—it requires understanding the business to deliver measurable impact. Here is how I apply this:
 
@@ -37,8 +37,8 @@ Great software goes beyond writing code—it requires understanding the business
 
 <div align="center">
   <a href="https://github.com/MCTHIAS">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MCTHIAS&show_icons=true&include_all_commits=true&count_private=true&v=3&bg_color=212121&title_color=40c9ff&text_color=ffffff&icon_color=0e718a&border_color=0e718a" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCTHIAS&layout=compact&langs_count=7&v=3&bg_color=212121&title_color=40c9ff&text_color=ffffff&icon_color=0e718a&border_color=0e718a" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-indol-five-38.vercel.app/api?username=MCTHIAS&show_icons=true&include_all_commits=true&count_private=true&v=3&bg_color=212121&title_color=40c9ff&text_color=ffffff&icon_color=0e718a&border_color=0e718a" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-indol-five-38.vercel.app/api/top-langs/?username=MCTHIAS&layout=compact&langs_count=7&v=3&bg_color=212121&title_color=40c9ff&text_color=ffffff&icon_color=0e718a&border_color=0e718a" alt="Top Languages" />
   </a>
 </div>
 
